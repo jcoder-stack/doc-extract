@@ -1,0 +1,9 @@
+INVOICE
+Invoice No.: INV-2026-0912
+Date: Sep 12, 2026
+From: Northwind Cloud Services Ltd.
+Bill To: Shanghai Xingchen Software Co., Ltd.
+Description                 Qty   Unit Price   Amount
+API usage (August 2026)       1     1,180.00   1,180.00
+Support plan                  1       320.00     320.00
+Total Due: USD 1,500.00
