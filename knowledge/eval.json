@@ -1,0 +1,12 @@
+[
+  {"question": "收到货 5 天了，不想要了还能退吗？", "expected_source": "退货与换货.md#七天无理由退货"},
+  {"question": "刻了字的商品可以退吗？", "expected_source": "退货与换货.md#不支持退货的商品"},
+  {"question": "退款多久能到账？", "expected_source": "退货与换货.md#退款到账时间"},
+  {"question": "下单之后多久能发货？", "expected_source": "物流配送.md#发货时间"},
+  {"question": "寄到拉萨需要几天？", "expected_source": "物流配送.md#偏远地区"},
+  {"question": "买多少钱可以包邮？", "expected_source": "物流配送.md#运费"},
+  {"question": "能开增值税专用发票吗？", "expected_source": "发票.md#发票类型"},
+  {"question": "发票抬头写错了怎么办？", "expected_source": "发票.md#抬头和税号修改"},
+  {"question": "对公转账要备注什么？", "expected_source": "付款方式.md#银行转账（对公）"},
+  {"question": "用支付宝付款后多久能确认？", "expected_source": "付款方式.md#付款确认时间"}
+]
