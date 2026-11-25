@@ -7,7 +7,8 @@
 | [01_doc_extract](01_doc_extract.ipynb) | 发票文字 → 校验过的 Python 对象 | 结构化输出、Pydantic 校验、带错误重试、准确率评估 |
 | [02_tool_calling](02_tool_calling.ipynb) | 订单客服助手 | 工具定义、手写 Agent 循环、对话历史 |
 | [03_mcp](03_mcp.ipynb) + [03_order_server.py](03_order_server.py) | 把第 2 课的订单工具做成 MCP Server | MCP 的 Host / Client / Server、tools 和 resources、stdio 传输、接入 Claude Code |
-| 04（计划） | 知识库问答 | RAG、向量检索、引用来源 |
+| [04_rag](04_rag.ipynb) + [knowledge/](knowledge/) | 订单客服知识库问答 | 切块、Embedding、向量检索 + BM25 混合检索、带引用回答、Agentic RAG、检索评估 |
+| 05（计划） | 记忆与上下文工程 | 长对话压缩、摘要、跨会话记忆 |
 
 ## 开始
 
