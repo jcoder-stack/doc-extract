@@ -8,7 +8,8 @@
 | [02_tool_calling](02_tool_calling.ipynb) | 订单客服助手 | 工具定义、手写 Agent 循环、对话历史 |
 | [03_mcp](03_mcp.ipynb) + [03_order_server.py](03_order_server.py) | 把第 2 课的订单工具做成 MCP Server | MCP 的 Host / Client / Server、tools 和 resources、stdio 传输、接入 Claude Code |
 | [04_rag](04_rag.ipynb) + [knowledge/](knowledge/) | 订单客服知识库问答 | 切块、Embedding、向量检索 + BM25 混合检索、带引用回答、Agentic RAG、检索评估 |
-| 05（计划） | 记忆与上下文工程 | 长对话压缩、摘要、跨会话记忆 |
+| [05_memory](05_memory.ipynb) | 会记事的订单客服 | 模型无状态、滑动窗口、滚动摘要、工具结果裁剪、跨会话长期记忆（抽取 / 合并 / 注入）、什么不该记 |
+| 06（计划） | 评估、追踪与安全 | LLM-as-judge、调用链追踪、prompt 注入防护 |
 
 ## 开始
 
